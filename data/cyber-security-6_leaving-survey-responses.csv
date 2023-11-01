@@ -1,0 +1,84 @@
+id,learner_id,left_at,leaving_reason,last_completed_step_at,last_completed_step,last_completed_week_number,last_completed_step_number
+110338,9f172f7a-74fa-4e6a-991a-cad1aedbce41,2018-04-20 12:12:05 UTC,Other,,,,
+120486,353eaf1b-cff8-4d9c-98d4-b9a736c17e73,2018-05-09 03:54:35 UTC,The course required more time than I realised,2018-07-15 16:53:37 UTC,3.20,3,20
+125315,8c4eee40-70ae-45ef-ab61-cdf2832328b1,2018-05-18 09:10:38 UTC,I don’t have enough time,,,,
+126064,c1c34f22-2e36-4fb5-9295-3a92f5f94350,2018-05-20 12:15:19 UTC,I prefer not to say,,,,
+126988,798f378b-858d-44ac-a254-0846625dc7e9,2018-05-21 17:54:05 UTC,Other,,,,
+134123,f83e6689-b66d-4b9d-bff6-c0555a225f49,2018-06-03 09:03:08 UTC,Other,,,,
+135619,92ee0df3-ade8-4af0-835d-073d869dc74d,2018-06-05 08:54:07 UTC,I prefer not to say,,,,
+140288,0636f5ca-0553-4e18-ad69-97d04bc1cb1b,2018-06-13 04:17:01 UTC,I prefer not to say,,,,
+140407,e73f3a58-d374-415c-943c-93d06ac46f98,2018-06-13 09:37:30 UTC,I don’t have enough time,,,,
+140772,28904547-1869-40db-b4b0-9b7a5deb6c8c,2018-06-13 19:48:58 UTC,Other,,,,
+141951,2ea03bab-6bac-4528-97a5-3aa1e52642e8,2018-06-16 07:48:35 UTC,The course required more time than I realised,2018-06-14 13:23:55 UTC,1.7,1,7
+142496,93941798-99ad-4224-95de-f0c3e671b0f9,2018-06-17 16:35:13 UTC,I prefer not to say,,,,
+142888,ff2189d6-ae99-4c05-af10-73505cc6ff30,2018-06-18 07:58:59 UTC,I don’t have enough time,,,,
+143007,728b414e-0840-4aad-8853-ea0783c41ad5,2018-06-18 10:19:50 UTC,Other,2018-06-18 09:58:57 UTC,1.3,1,3
+144076,75073913-884b-41a2-aae1-b1457ac95b90,2018-06-19 15:21:17 UTC,I don’t have enough time,2018-06-12 19:47:47 UTC,1.3,1,3
+144912,f62ff33a-b5bf-4e25-bc20-b60bef1b3b01,2018-06-21 08:22:56 UTC,Other,,,,
+146256,86f205ff-90cc-4c22-9d2a-5285e2621141,2018-06-24 02:42:21 UTC,I don’t have enough time,2018-06-22 10:10:55 UTC,1.6,1,6
+146615,fa001738-ecab-459b-9c05-e41eb186edec,2018-06-24 18:35:53 UTC,I don’t have enough time,2018-06-17 03:46:01 UTC,1.3,1,3
+146701,8f3088b5-11a8-4f7a-a37b-f11b7539790f,2018-06-24 23:42:30 UTC,I don’t have enough time,2018-06-14 01:58:44 UTC,1.8,1,8
+146900,ac1d37b2-c2b9-4884-80b6-8bc6c6f3f5d3,2018-06-25 07:58:54 UTC,I don’t have enough time,,,,
+146927,94acb83b-d516-49cc-b120-daf9f8401dcd,2018-06-25 08:28:37 UTC,The course wasn’t what I expected,2018-06-25 08:27:09 UTC,2.15,2,15
+147006,54632f0a-4f86-425d-a12b-0cd429a1ba30,2018-06-25 10:23:25 UTC,The course required more time than I realised,,,,
+148543,c81fa23b-2b7a-4bdd-9e40-689076decb89,2018-06-27 11:38:12 UTC,The course wasn’t what I expected,2018-06-27 11:37:33 UTC,1.2,1,2
+148652,0c8dcb20-1d3f-4689-8bba-9fc2fb1351f2,2018-06-27 16:11:01 UTC,I don’t have enough time,2018-06-27 16:10:04 UTC,1.19,1,19
+149284,0a3477c7-bae2-4991-b6e9-44fde85f660e,2018-06-28 21:12:13 UTC,I don’t have enough time,,,,
+149433,3603bbf1-674a-4a4f-a3ba-3ecb9a8826ff,2018-06-29 07:39:22 UTC,I don’t have enough time,,,,
+150378,b8b973ce-635e-4c08-ad78-9aa98dc80fe3,2018-07-01 12:43:31 UTC,The course required more time than I realised,,,,
+150487,9abd0d70-0c0f-459a-95d8-0132ea2e5bb6,2018-07-01 17:40:19 UTC,I prefer not to say,2018-07-01 17:08:00 UTC,3.20,3,20
+150738,6713d2e5-99c9-4aec-ae5b-3b81200694f4,2018-07-02 03:52:27 UTC,Other,,,,
+151403,0b985343-44d3-4ece-820b-1d8c87294869,2018-07-02 17:27:05 UTC,The course won’t help me reach my goals,2018-07-02 16:39:06 UTC,1.5,1,5
+151512,feabc67d-99a7-4149-b5f3-8a7edec4e4ce,2018-07-02 18:49:02 UTC,The course wasn’t what I expected,2018-06-30 21:08:48 UTC,1.8,1,8
+152126,36910dcc-a5dd-4a93-88cb-178ed63f89bc,2018-07-03 14:47:28 UTC,I don’t have enough time,,,,
+152978,470171ac-7fc9-47bc-bfca-819682ae75ca,2018-07-05 02:44:46 UTC,I prefer not to say,,,,
+153717,5ee15ced-4f3d-4478-b0f6-c9169a4ecb35,2018-07-06 11:03:17 UTC,Other,2018-07-06 11:02:41 UTC,3.20,3,20
+153799,7279f38a-3f85-4ce5-8368-312419bd24ac,2018-07-06 14:24:41 UTC,I don’t have enough time,,,,
+153803,1615fe6a-91d0-478f-95a0-cabbbb6da2a2,2018-07-06 14:28:22 UTC,I don’t have enough time,,,,
+154080,3674d80c-4533-4af3-bd93-7c3f804b8937,2018-07-07 07:06:23 UTC,I don’t have enough time,2018-06-19 05:26:05 UTC,1.19,1,19
+154322,eccf7f6e-5364-47b3-ada7-aaffe578d636,2018-07-07 18:38:51 UTC,The course was too easy,2018-07-06 08:07:43 UTC,2.18,2,18
+155338,d4220c94-b91c-4885-9bbf-12f2240d6d1d,2018-07-09 14:24:27 UTC,I don’t have enough time,2018-07-09 14:23:22 UTC,3.14,3,14
+155597,d3d28596-0af0-47eb-bf2d-4ebfeee2b635,2018-07-09 19:17:43 UTC,I don’t have enough time,,,,
+155601,9c3a49d2-2602-4167-bf82-9adee9975fa4,2018-07-09 19:28:18 UTC,The course required more time than I realised,2018-06-27 21:32:20 UTC,1.19,1,19
+155928,2effb835-520d-4a09-8d66-667f372f0765,2018-07-10 07:55:17 UTC,The course required more time than I realised,2018-07-10 07:50:20 UTC,1.19,1,19
+156625,532b41f3-e1ca-4f37-b420-41402eb166bb,2018-07-11 11:58:49 UTC,I don’t have enough time,,,,
+156633,8e857594-f8ac-4062-a0f4-de7596e8cae4,2018-07-11 12:19:17 UTC,The course required more time than I realised,,,,
+156955,3525a122-d068-446d-99c5-8f8f7468c0f2,2018-07-12 05:36:34 UTC,I don’t have enough time,,,,
+157014,c53c21b0-60e1-4c75-afac-b78a21a39b48,2018-07-12 09:53:13 UTC,The course required more time than I realised,,,,
+157527,0ff7b373-c961-460b-96f4-4f61b04c9ec7,2018-07-13 09:21:40 UTC,The course wasn’t what I expected,2018-07-13 09:20:43 UTC,1.7,1,7
+158055,2515ccff-a1f3-4577-b655-c0f74b1a33a4,2018-07-14 12:13:58 UTC,I prefer not to say,2018-06-13 13:13:36 UTC,1.4,1,4
+158090,866d70f8-f248-4180-952b-6267586e8d09,2018-07-14 13:49:16 UTC,Other,2018-06-30 16:54:30 UTC,3.17,3,17
+158365,800e63b5-317a-42c8-b2b9-48ff547e11f1,2018-07-15 10:51:10 UTC,I don’t have enough time,,,,
+158998,6cfaa598-e213-4bef-8f6e-457e72fa0265,2018-07-16 10:28:14 UTC,I don’t have enough time,,,,
+159177,79ce05a8-1dac-4e64-a8d0-f70fcd185949,2018-07-16 14:32:14 UTC,The course was too easy,,,,
+159598,5e46935f-93a4-4464-8543-1dc84aec9799,2018-07-17 09:20:16 UTC,I don’t have enough time,,,,
+160010,4b9a9069-e715-4299-b0e0-50f106d12060,2018-07-17 18:42:43 UTC,The course required more time than I realised,2018-07-02 15:04:17 UTC,1.6,1,6
+161279,4e324477-481c-4b0b-aecf-2e299d105f7e,2018-07-20 07:29:17 UTC,Other,,,,
+162294,0636f5ca-0553-4e18-ad69-97d04bc1cb1b,2018-07-21 23:00:38 UTC,I prefer not to say,,,,
+162547,cb606f96-99bc-4688-844b-64205ab08f13,2018-07-22 15:37:21 UTC,I don’t have enough time,,,,
+162711,943c22d6-316c-4a34-bb5e-b212cbadb11d,2018-07-22 22:40:24 UTC,I don’t have enough time,,,,
+163183,19e63148-2366-438f-9a39-24d74dd242e9,2018-07-23 15:57:27 UTC,I don’t have enough time,2018-06-16 16:19:25 UTC,1.1,1,1
+163424,2861dd6e-4682-4c86-a4e4-5b1d2fb73819,2018-07-23 19:45:35 UTC,I prefer not to say,2018-07-23 19:44:12 UTC,1.5,1,5
+164387,6e79114c-ffb1-4a01-937b-6e62a26a8da1,2018-07-25 04:45:01 UTC,I prefer not to say,,,,
+165721,44cd342b-0ad5-4c02-a5f3-e0bcdbb579c2,2018-07-27 14:29:34 UTC,Other,2018-06-26 14:55:38 UTC,3.20,3,20
+167868,ab329e4a-4854-4fd2-af8f-13c05311de2d,2018-07-31 03:08:09 UTC,I don’t have enough time,,,,
+168504,565ca901-25ad-4af8-afb3-bafae2eff907,2018-08-01 03:24:43 UTC,Other,,,,
+169279,abb8d417-63db-448b-9a3e-fe0d4685c19b,2018-08-02 13:44:40 UTC,I don’t have enough time,,,,
+169282,abb8d417-63db-448b-9a3e-fe0d4685c19b,2018-08-02 13:45:44 UTC,I don’t have enough time,,,,
+169523,aa2b636b-dacb-4320-b7e8-ef6b6bdbb1e1,2018-08-02 23:56:39 UTC,Other,,,,
+169576,74606679-eb45-47c6-8c89-c163b0769ad7,2018-08-03 06:03:39 UTC,The course wasn’t what I expected,,,,
+170913,66b8373d-82d9-44a5-a9bc-07b6494bf310,2018-08-05 17:14:01 UTC,I prefer not to say,,,,
+171884,051b751e-fb69-4b7e-9c83-82efba0ecd58,2018-08-06 23:33:34 UTC,I don’t have enough time,,,,
+171957,28edecbc-78c9-4eec-ba5b-06f34beba241,2018-08-07 05:32:22 UTC,Other,,,,
+172208,96b3f8b3-a17c-4693-a5de-b7b835712196,2018-08-07 12:28:23 UTC,I don’t have enough time,,,,
+172347,657a0b97-db63-4101-9636-ca669a678998,2018-08-07 15:50:44 UTC,The course was too hard,,,,
+173673,abf4e546-b44e-4e16-920f-e7c305062d00,2018-08-10 01:52:15 UTC,I don’t have enough time,,,,
+174352,40043a3e-b86c-41f6-aee3-81b918e69279,2018-08-11 18:00:37 UTC,Other,,,,
+175372,09652547-76ce-44ae-84ec-b04fc1490c19,2018-08-13 18:30:22 UTC,I prefer not to say,,,,
+175532,0b19f3a6-eb00-47ae-8cc7-83d288b9f2bb,2018-08-13 22:43:45 UTC,I don’t have enough time,,,,
+176673,f609bd73-ffe8-49a5-bf62-9d878834b612,2018-08-15 16:34:19 UTC,The course wasn’t what I expected,,,,
+178095,c8095071-baef-4010-98e0-a8abd8f4a788,2018-08-18 19:32:02 UTC,I prefer not to say,2018-08-18 19:14:05 UTC,3.16,3,16
+179308,b81790a8-2cca-445a-bbf5-102d91c454f2,2018-08-21 08:58:21 UTC,The course wasn’t what I expected,,,,
+181173,e10a0bc6-3e17-4217-a546-28c895d9f174,2018-08-24 12:50:36 UTC,I don’t have enough time,,,,
+181289,6fa17b3d-91d5-4b61-a573-b285b8ba1a07,2018-08-24 19:16:46 UTC,Other,2018-07-07 18:31:33 UTC,2.10,2,10
+181432,33a6b5fc-ba3c-4e23-a70a-0a49717abd6c,2018-08-25 05:14:11 UTC,I don’t have enough time,2018-08-22 15:32:02 UTC,2.9,2,9

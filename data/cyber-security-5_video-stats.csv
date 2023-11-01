@@ -1,0 +1,14 @@
+step_position,title,video_duration,total_views,total_downloads,total_caption_views,total_transcript_views,viewed_hd,viewed_five_percent,viewed_ten_percent,viewed_twentyfive_percent,viewed_fifty_percent,viewed_seventyfive_percent,viewed_ninetyfive_percent,viewed_onehundred_percent,console_device_percentage,desktop_device_percentage,mobile_device_percentage,tv_device_percentage,tablet_device_percentage,unknown_device_percentage,europe_views_percentage,oceania_views_percentage,asia_views_percentage,north_america_views_percentage,south_america_views_percentage,africa_views_percentage,antarctica_views_percentage
+1.1,Welcome to the course,99,1706,125,42,260,40,84.88,82.53,80.72,76.20,73.27,71.86,68.52,0.00,73.27,17.23,0.00,9.03,0.00,49.94,4.45,17.47,14.19,2.81,10.08,0.00
+1.14,Why would anyone want your data?,362,941,73,7,212,20,78.11,76.83,73.33,70.03,68.12,66.84,61.53,0.00,74.39,11.05,0.00,13.71,0.00,60.04,5.10,10.84,15.41,1.38,5.31,0.00
+1.17,Preserving privacy in cloud storage: privacy by design,241,728,62,4,146,10,79.95,78.98,77.88,75.00,72.25,68.96,50.27,0.00,75.96,10.03,0.00,13.32,0.00,63.05,4.81,9.48,14.84,1.51,4.40,0.00
+1.19,Staying safe online: personal perspectives,348,780,66,2,166,8,78.46,76.79,75.13,71.41,69.49,69.10,56.41,0.00,73.33,11.15,0.00,14.49,0.00,63.21,4.23,9.87,15.00,1.03,4.49,0.00
+1.5,Privacy online and offline,281,1324,115,20,256,31,81.12,77.49,69.71,66.01,63.44,61.40,47.05,0.00,74.55,13.60,0.00,11.56,0.00,58.38,4.83,11.86,15.03,1.81,6.95,0.00
+2.1,Welcome to Week 2: payment security,37,726,44,5,136,8,82.37,81.82,80.72,79.75,78.79,77.41,75.90,0.00,73.14,11.71,0.00,14.88,0.00,65.15,4.82,8.13,13.77,1.24,5.37,0.00
+2.11,Exploring vulnerabilities in online payments,312,637,49,3,131,530,77.24,74.41,70.02,67.03,65.78,63.11,60.28,0.00,72.84,10.68,0.00,15.86,0.00,66.25,4.87,8.01,14.13,1.26,3.61,0.00
+2.17,The million dollar contactless payment,92,585,46,0,115,4,79.83,79.66,78.80,77.44,77.26,77.09,69.91,0.00,73.68,9.91,0.00,15.56,0.00,65.13,5.30,7.18,15.56,0.85,3.76,0.00
+2.4,The evolving arms race of payment security,426,725,62,7,145,13,77.52,76.14,73.52,72.14,70.48,68.97,66.62,0.00,73.38,10.90,0.00,15.45,0.00,65.93,4.83,7.59,14.21,1.52,4.69,0.00
+3.1,Welcome to Week 3: security in the future home,59,576,42,2,121,5,77.26,76.22,75.87,74.83,73.44,71.01,68.92,0.00,74.31,10.07,0.00,15.45,0.00,61.81,5.03,7.81,16.84,1.04,5.73,0.00
+3.14,Exploring security: biometric authentication,313,544,56,2,122,8,75.00,74.45,70.96,68.57,66.73,61.58,38.97,0.00,74.45,9.19,0.00,15.99,0.00,63.97,4.78,7.17,16.36,0.74,4.78,0.00
+3.15,Exploring security: the Access Control Live Lab,227,530,50,2,105,6,76.98,75.66,73.21,70.00,69.06,65.85,60.19,0.00,75.28,9.25,0.00,15.28,0.00,63.77,4.15,8.49,16.60,0.57,4.72,0.00
+3.2,Devices in the future home,206,590,58,1,125,6,77.63,77.46,75.25,74.24,71.02,69.83,62.71,0.00,74.41,10.17,0.00,15.25,0.00,62.88,5.25,7.63,16.78,1.02,4.58,0.00
